@@ -1,4 +1,4 @@
-### Hi, My name is Ryan! 👋
+### Hi, my name is Ryan! 👋
 
 <!--
 **ryankwondev/ryankwondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
